@@ -1,9 +1,5 @@
 ## Next.js base プロジェクト
 
-## 済
-
-ディレクトリの整理
-絶対パスの設定
 
 ## tailwind css
 
