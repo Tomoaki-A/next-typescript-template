@@ -1,5 +1,16 @@
 ## Next.js base プロジェクト
 
+## リポジトリ登録
+
+```
+git remote rm origin
+git init 
+git rm -r --cached .
+git add --all .
+git commit -am "init"      
+git remote add origin <repo>
+git push origin master
+```
 
 ## tailwind css
 
