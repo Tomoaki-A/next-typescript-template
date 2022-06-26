@@ -1,4 +1,4 @@
-## Next.js base プロジェクト
+# Next.js × Typescript Template
 
 ## リポジトリ登録
 
